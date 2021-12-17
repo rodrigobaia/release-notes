@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsrptO8KM3zy8F/SWuwxtZo5NM0cYac29UOt46rW1bKv/G+VX6f28y/AVbkPIXlI+XAXAvjXYwqnaJD+nTZJAw==",
+  "success": true,
+  "projectFilePath": "E:\\26-we-learn\\release-notes\\src\\ReleaseNote.WebApp\\ReleaseNote.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
