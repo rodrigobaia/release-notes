@@ -3,3 +3,6 @@
 ################################################################################
 
 /src/Release-Notes/.vs/Release-Notes/v17
+/src/Release-Notes/ReleaseNotes/bin/Debug/net6.0
+/src/Release-Notes/ReleaseNotes/obj
+*.user
